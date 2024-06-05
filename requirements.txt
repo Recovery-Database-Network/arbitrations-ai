@@ -1,0 +1,6 @@
+fastapi[all]
+uvicorn[standard]
+simple_salesforce
+python-dotenv
+firebase
+google-cloud-aiplatform
